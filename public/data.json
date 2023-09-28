@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/BzY2dsj/Rectangle-2-1.png",
+        "title": "Course 1",
+        "info": "Database (MySQL)",
+        "description": "This course covers the fundamentals of relational databases with a focus on MySQL. Topics include data modeling, SQL queries, and database management.",
+        "price": 2000,
+        "credit_hour": 3
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/pz3WmYB/Rectangle-2-2.png",
+        "title": "Course 2",
+        "info": "Introduction to C Programming",
+        "description": "An introductory course to the C programming language, suitable for beginners. Learn the basics of programming and algorithmic thinking.",
+        "price": 1000,
+        "credit_hour": 5
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/f2d60mV/Rectangle-2-3.png",
+        "title": "Course 3",
+        "info": "Introduction to Algorithms",
+        "description": "Dive into the world of algorithms. This course explores algorithm design and analysis, covering essential data structures and problem-solving techniques.",
+        "price": 3000,
+        "credit_hour": 4
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/WxvM2Zz/Rectangle-2-4.png",
+        "title": "Course 4",
+        "info": "Introduction to C++ for DSA",
+        "description": "Get started with C++ programming and apply it to solving data structures and algorithms problems. Ideal for those preparing for technical interviews.",
+        "price": 4000,
+        "credit_hour": 6
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/XYtCyYF/Rectangle-2-5.png",
+        "title": "Course 5",
+        "info": "Software Engineering",
+        "description": "Explore the principles and practices of software engineering. Learn about software development methodologies, project management, and quality assurance.",
+        "price": 5000,
+        "credit_hour": 4
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/2yVDm1Y/Rectangle-2-6.png",
+        "title": "Course 6",
+        "info": "Problem-Solving Part",
+        "description": "Enhance your problem-solving skills in programming. This course focuses on algorithmic thinking and problem-solving techniques.",
+        "price": 6000,
+        "credit_hour": 3
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/j82j2g2/Rectangle-2.png",
+        "title": "Course 7",
+        "info": "Introduction to OOP Python",
+        "description": "Learn the fundamentals of object-oriented programming (OOP) using the Python programming language. Understand classes, objects, and inheritance.",
+        "price": 7000,
+        "credit_hour": 5
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/sQXdDWc/Rectangle-3-1.png",
+        "title": "Course 8",
+        "info": "AWS, Cloud Computing",
+        "description": "Explore cloud computing and Amazon Web Services (AWS). This course covers cloud infrastructure, services, and deployment on AWS.",
+        "price": 8000,
+        "credit_hour": 7
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/6D7T8x0/Rectangle-3.png",
+        "title": "Course 9",
+        "info": "Basic Data Structures",
+        "description": "Get started with fundamental data structures such as arrays, linked lists, and stacks. This course provides a solid foundation in data structures.",
+        "price": 9000,
+        "credit_hour": 1
+    }
+]
